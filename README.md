@@ -9,8 +9,8 @@ requirements:
 
 input is done via 3 "*.txt" files:
 1. contains only one single integer, which represents the dimension
-2. contains the values of the matrix; must contain ~dimension^2~ doubles (or integers)
-3. contains the result column; must contain ~dimension~ doubles (or integers)
+2. contains the values of the matrix; must contain *dimension^2* doubles (or integers)
+3. contains the result column; must contain *dimension* doubles (or integers)
 
 When adding a custom matrix, overwrite one of the existing file-triples.
 Adding your own files is laboriouse.
